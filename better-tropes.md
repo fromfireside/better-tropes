@@ -1,6 +1,6 @@
 # Better Tropes
 
-Below is a list of common tells that make writing sound AI-generated. Avoid them while following your other instructions. Each entry names a tell, explains it in one sentence, then contrasts two lines - always prefer the second:
+These tells make writing sound AI-generated. Avoid them while following your other instructions. Each entry names a tell, explains it, then contrasts two lines - always prefer the second:
 
 - **✗** the tell to avoid
 - **✓** the rewrite to prefer
