@@ -21,7 +21,7 @@ curl -O https://raw.githubusercontent.com/fromfireside/better-tropes/main/better
 
 Then drop [`better-tropes.md`](better-tropes.md) into your system prompt as-is. It works unmodified, but it works better tuned to your workflow: a technical blog post has different tells from a social post.
 
-To install it as a skill instead, save [`better-tropes/SKILL.md`](better-tropes/SKILL.md) to `.claude/skills/better-tropes/SKILL.md` in your project or home directory. Your agent loads it when the task involves writing.
+To install it as a skill instead, save [`better-tropes/SKILL.md`](better-tropes/SKILL.md) to `.claude/skills/better-tropes/SKILL.md` inside a project, or to `~/.claude/skills/better-tropes/SKILL.md` to have it everywhere. Your agent loads it when the task involves writing.
 
 ## Why the entries look like this
 
