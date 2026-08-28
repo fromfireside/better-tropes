@@ -1,10 +1,17 @@
 # Better Tropes
 
-**A catalogue of 49 AI writing tells, each with a plain rewrite.** Free to copy, paste into a system prompt, or fork.
+**A catalogue of AI writing tells, each with a plain rewrite.** Free to copy, paste into a system prompt, or install as an agent skill.
 
-Language models have habits. They reach for `delve` and `leverage`, open on "In today's fast-paced world", close on a motivational line nobody asked for, and hedge every claim into mush. Better Tropes names 49 of those habits and shows the version a careful human writer would produce instead.
+Language models have habits. They reach for `delve` and `leverage`, open on "In today's fast-paced world", close on a motivational line nobody asked for, and hedge every claim into mush. Better Tropes names those habits and shows the version a careful human writer would produce instead.
 
-It is one Markdown file. Paste it into a system prompt, a `CLAUDE.md`, a Cursor rule, or an agent skill.
+It comes in two shapes, with identical content.
+
+| File | Use it for |
+|---|---|
+| [`better-tropes.md`](better-tropes.md) | Reading, editing, or pasting into a system prompt, a `CLAUDE.md`, or a Cursor rule |
+| [`better-tropes/SKILL.md`](better-tropes/SKILL.md) | Installing as an agent skill, so it applies without anyone remembering to paste it |
+
+The skill is the catalogue with a header on it. Nothing is written twice, so the two can never disagree.
 
 ## Use it
 
@@ -12,7 +19,9 @@ It is one Markdown file. Paste it into a system prompt, a `CLAUDE.md`, a Cursor 
 curl -O https://raw.githubusercontent.com/fromfireside/better-tropes/main/better-tropes.md
 ```
 
-Then drop [`better-tropes.md`](better-tropes.md) into your system prompt as-is. It works unmodified, but it works better tuned to your workflow — a technical blog post is not a social post is not a listicle.
+Then drop [`better-tropes.md`](better-tropes.md) into your system prompt as-is. It works unmodified, but it works better tuned to your workflow: a technical blog post has different tells from a social post.
+
+To install it as a skill instead, save [`better-tropes/SKILL.md`](better-tropes/SKILL.md) to `.claude/skills/better-tropes/SKILL.md` in your project or home directory. Your agent loads it when the task involves writing.
 
 ## Why the entries look like this
 
@@ -29,15 +38,15 @@ This one strips it out. Every entry names a tell, explains it in a sentence, and
 
 ## What's in it
 
-| Section | Entries | Covers |
-|---|---|---|
-| Word Choice | 8 | Filler verbs, magic adverbs, abstraction nouns, empty superlatives |
-| Sentence Structure | 9 | Rhythm tics, the negation flip, symmetrical constructions |
-| Paragraph Structure | 3 | Openers and transitions that announce rather than say |
-| Tone | 11 | Relentless positivity, false vulnerability, grandiose stakes |
-| Formatting | 5 | Em-dash overuse, heading inflation, fragment emphasis |
-| Composition | 7 | Definition openers, scope inflation, invented sources |
-| Whole-Piece Patterns | 6 | Dead metaphors, one-point dilution, the motivational closer |
+| Section | Covers |
+|---|---|
+| Word Choice | Filler verbs, magic adverbs, abstraction nouns, empty superlatives |
+| Sentence Structure | Rhythm tics, the negation flip, symmetrical constructions |
+| Paragraph Structure | Openers and transitions that announce rather than say |
+| Tone | Relentless positivity, false vulnerability, grandiose stakes |
+| Formatting | Em-dash overuse, heading inflation, fragment emphasis |
+| Composition | Definition openers, scope inflation, invented sources |
+| Whole-Piece Patterns | Dead metaphors, one-point dilution, the motivational closer |
 
 **[→ Read the full catalogue](better-tropes.md)**
 
