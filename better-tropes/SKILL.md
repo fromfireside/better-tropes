@@ -35,32 +35,32 @@ Filler that announces significance instead of showing it: `it's worth noting`, `
 - **✗** It's worth noting that, importantly, retention improved.
 - **✓** Retention improved 12%.
 
-### Hedge Stacking
+### Doubled Hedges
 
-Two hedges doing one hedge's work: `could potentially`, `may eventually`, `might possibly`, `can sometimes help to`. Each one weakens the next until the sentence claims nothing at all. Keep one, or commit to the claim.
+Two hedges doing one hedge's work: `may tend to`, `might in some cases`, `can sometimes prove`, `is likely to occasionally`. Each one weakens the next until the sentence claims nothing at all. Keep one, or commit to the claim.
 
-- **✗** This could potentially help teams to eventually move faster.
+- **✗** This might in some cases help teams to move a little faster.
 - **✓** This saves the average team four hours a week.
 
 ### Abstraction Nouns
 
-Words that gesture at scale or at a vague boundary instead of naming a thing: `tapestry`, `landscape`, `realm`, `journey`, `ecosystem`, `paradigm`, `synergy`, `framework`, `seam`, `seams`, `world of`, and the consultant register - `flywheel`, `north star`, `wedge`, `vector`, `nexus`, `substrate`, `surface area`. Name the concrete noun instead.
+Words that gesture at scale or at a vague boundary instead of naming a thing: `tapestry`, `landscape`, `realm`, `journey`, `ecosystem`, `paradigm`, `synergy`, `framework`, `seam`, `seams`, `world of`, and the consultant register - `flywheel`, `north star`, `surface area`, `moat`, `lever`. Name the concrete noun instead.
 
 - **✗** Navigating the ever-evolving landscape of the customer journey.
 - **✓** Keeping up with what customers ask for.
 
 ### Padding Adjectives
 
-Adjectives that add length, not information: `robust`, `comprehensive`, `holistic`, `seamless`, `powerful`, `innovative`, `structural`, and the brochure register - `vibrant`, `thriving`, `bustling`, `nestled`. Delete them or replace them with a specific.
+Adjectives that add length, not information: `robust`, `comprehensive`, `holistic`, `seamless`, `powerful`, `innovative`, `structural`. Delete them or replace them with a specific.
 
 - **✗** A robust, comprehensive solution with a structural advantage.
 - **✓** It handles 10,000 requests a second and never drops one.
 
 ### Stacked Hyphenated Modifiers
 
-Compound adjectives piled in front of a noun: `a high-quality, well-architected, future-proof platform`. Each one has the shape of a specification and none of them is one. Keep at most one, and only where it does work.
+Compound adjectives piled in front of a noun: `a fully-managed, developer-first, cloud-native platform`. Each one has the shape of a specification and none of them is one. Keep at most one, and only where it does work.
 
-- **✗** A high-quality, well-architected, enterprise-grade, future-proof solution.
+- **✗** A fully-managed, developer-first, cloud-native, enterprise-ready platform.
 - **✓** It has run for two years without an outage.
 
 ### Empty Superlatives
@@ -70,13 +70,6 @@ Claims of importance with nothing behind them: `game-changing`, `cutting-edge`, 
 - **✗** Our game-changing, cutting-edge platform.
 - **✓** Our platform ships changes in under a minute.
 
-### "Real" and "Actual"
-
-Intensifiers pointing at a contrast that never arrives: `the real problem`, `what actually happened`, `the actual reason`. If nothing false is being corrected, the word is decoration.
-
-- **✗** The real issue is that the actual onboarding flow is too long.
-- **✓** Onboarding takes eleven steps. Most people quit at step four.
-
 ### Latinate Over Plain
 
 The longer, Latin-rooted word where a short one works: `utilize` (use), `facilitate` (help), `commence` (start), `endeavour` (try), `demonstrate` (show).
@@ -84,19 +77,12 @@ The longer, Latin-rooted word where a short one works: `utilize` (use), `facilit
 - **✗** We endeavour to facilitate a commencement of the process.
 - **✓** We try to help you get started.
 
-### Phrase Padding
+### Elegant Variation
 
-Multi-word constructions with a one-word equivalent: `in order to` (to), `due to the fact that` (because), `at this point in time` (now), `has the ability to` (can), `in the event that` (if). The short form means the same thing every time.
+Rotating through synonyms for one thing so that no word is ever repeated: `customers`, then `clients`, then `users`, then `accounts`, all meaning the same people. Fowler named this in 1926 and it has only got worse. Repetition reads as precision - pick the right word and use it every time.
 
-- **✗** In order to reduce churn, and due to the fact that onboarding matters, we have the ability to help.
-- **✓** To reduce churn, start with onboarding.
-
-### Synonym Cycling
-
-Rotating through synonyms for one thing so that no word is ever repeated: `developers`, then `engineers`, then `practitioners`, then `builders`, all meaning the same people. Repetition reads as precision. Pick the right word and use it every time.
-
-- **✗** Developers want speed, so we built for engineers who ship daily, because practitioners deserve better tools.
-- **✓** Developers want speed. We built this for the ones who ship daily.
+- **✗** Customers want speed, so we built for clients who ship daily, because our users deserve better.
+- **✓** Customers want speed. We built this for the ones who ship daily.
 
 ### The "Serves As" Dodge
 
@@ -158,9 +144,9 @@ A sentence that trails off into an `-ing` clause explaining its own significance
 - **✗** The API caches results, ensuring a seamless experience and reflecting broader trends.
 - **✓** The API caches results, so pages load instantly.
 
-### Parenthetical Hedging
+### The Demoted Example
 
-Examples demoted into a parenthesis so the sentence never commits to them: `(like X and Y)`, `(such as...)`, `(among others)`. Name them in the sentence or leave them out.
+Examples pushed into a parenthesis so the sentence never has to commit to them: `(such as...)`, `(among others)`, `(to name a few)`. Name them in the sentence or leave them out.
 
 - **✗** Several teams (like sales and support) saw gains (among others).
 - **✓** Sales and support both halved their response times.
@@ -206,10 +192,10 @@ Connectives asserting a logical link the sentences do not have: `Moreover`, `Fur
 
 ### List Inflation
 
-A list padded out to reach a round number: `Here are 7 reasons`, `10 ways to`, `five key takeaways`. Items four through seven are usually items one through three in new words. Keep the ones that are true.
+A list padded out to reach a round number: `nine ways to`, `twelve lessons from`, `six things nobody tells you`. The back half is usually the front half in new words. Keep the ones that are true.
 
-- **✗** Here are 7 reasons to switch.
-- **✓** Two reasons to switch: it's cheaper, and it imports your old data.
+- **✗** Twelve lessons from our first year.
+- **✓** Two lessons from our first year: price higher, and hire slower.
 
 ### Listicle in a Trench Coat
 
@@ -238,7 +224,7 @@ Manufactured excitement: `thrilled`, `excited to share`, `can't wait`, and the e
 
 ### The "Let's / Here's" Warm-Up
 
-Fake conversational lead-ins aimed at no one: `Let's dive in`, `Let's break this down`, `Let's unpack this`, `Let's explore`, `you might be wondering`, and the `Here's the ___` slot filled with almost any noun - `Here's the thing`, `the kicker`, `the rub`, `the secret`, `the takeaway`, `the lesson`, `the deal`, `the starting point` - plus `Here's where it gets interesting` and `Here's what most people miss`. Address the reader like a busy adult and start.
+Fake conversational lead-ins aimed at no one: `Let's dive in`, `Let's break this down`, `Let's unpack this`, `Let's explore`, `you might be wondering`, and the `Here's the ___` slot filled with almost any noun - `Here's the thing`, `the kicker`, `the rub`, `the secret`, `the takeaway`, `the lesson`, `the deal`, `the starting point` - plus `Here's where it gets interesting`, `Here's what most people miss`, and `This is the interesting part`. Address the reader like a busy adult and start.
 
 - **✗** Let's break this down. Here's the kicker: it's simpler than you think.
 - **✓** Here is how it works.
@@ -292,13 +278,6 @@ Coining an official-sounding term for an ordinary idea: `the supervision paradox
 - **✗** This is what I call the productivity paradox.
 - **✓** The more tools people add, the less they get done.
 
-### Self-Labelling Significance
-
-A sentence telling the reader which sentence matters: `This is the interesting part`, `And here's the key insight`, `That last move is the contrarian one`. If a point is the good one, it will read that way without a label.
-
-- **✗** This next part is the counterintuitive bit.
-- **✓** Charging more raised our conversion rate.
-
 ### The Motivational Closer
 
 An ending that swells into uplift instead of landing the point: `The future is bright`, `The possibilities are endless`, `The journey has just begun`. End on something concrete.
@@ -324,13 +303,6 @@ The colon as a default mid-sentence connector, several to a paragraph: setup, th
 
 - **✗** The finding was clear: users want speed. The fix was obvious: cut the steps.
 - **✓** Users want speed, so we cut four steps out of checkout.
-
-### Stray Hyphens
-
-Hyphens inserted between words that stand alone: `code-base`, `data-set`, `in real-time`, and `out-of-the-box` where it follows the noun instead of modifying one. Hyphenate a compound only when it sits in front of the noun it modifies.
-
-- **✗** The code-base updates in real-time and works out-of-the-box.
-- **✓** The codebase updates in real time and works out of the box.
 
 ### Title Case Headings
 
@@ -394,7 +366,7 @@ Opening on a grand backdrop to make a small point feel large: `In today's fast-p
 
 ### The Rhetorical Question Opener
 
-Opening on a question the piece is about to answer anyway: `What if there were a better way?`, `Ever wondered why...?`, `Why does this matter?`. Lead with the claim.
+Opening on a question the piece is about to answer anyway: `Ever wondered why...?`, `What's really going on here?`, `Why does any of this matter?`. Lead with the claim.
 
 - **✗** Ever wondered why most migrations run late?
 - **✓** Most migrations run late because nobody audits the old data first.
@@ -449,9 +421,9 @@ Answering by echoing the question back in full-sentence form, or narrating the r
 
 ### Reasoning Narration
 
-Thinking aloud in the finished text: `Let me think step by step`, `Breaking this down`, `First, let's consider`, `Now that we've established`. Show the conclusion and the evidence for it, not the walk between them.
+Thinking aloud in the finished text: `First, let's consider`, `Now that we've established`, `Working through this in order`, `Starting with the basics`. Show the conclusion and the evidence for it, not the walk between them.
 
-- **✗** Let me break this down. First, let's consider the cost.
+- **✗** First, let's consider the cost. Now that we've established the budget...
 - **✓** It costs $40 a seat, which is double what you pay now.
 
 ### The Assistant Sign-Off
@@ -463,16 +435,16 @@ The closing line of a chat reply left on the end of a document: `I hope this hel
 
 ### The Knowledge Disclaimer
 
-Hedging about the writer's own access to information, in text that is supposed to be about the subject: `While specific details are limited in available sources`, `As of my last update`, `I don't have access to real-time data`. Find the fact or drop the claim.
+Hedging about the writer's own access to information, in text that is supposed to be about the subject: `As of my last update`, `I don't have access to real-time data`, `Based on the information available to me`. Find the fact or drop the claim.
 
-- **✗** While specific details are limited, the company appears to be growing.
+- **✗** Based on the information available to me, the company appears to be growing.
 - **✓** The company filed 40 new trademarks last year.
 
 ### Unfilled Placeholders
 
-Brackets the draft was supposed to lose on the way out: `[Your Name]`, `[INSERT SOURCE]`, `[Company]`, `[link]`, `2026-XX-XX`. Search for a bracket before anything ships.
+Brackets the draft was supposed to lose on the way out: `[Your Name]`, `[Company]`, `[date]`, `[link here]`, `[add example]`. Search for a square bracket before anything ships.
 
-- **✗** Thanks again, [Your Name]. The full report is at [link].
+- **✗** Thanks again, [Your Name]. The full report is at [link here].
 - **✓** Thanks again, Priya. The full report is at example.com/q3.
 
 ### Paste Residue
@@ -488,37 +460,37 @@ Machinery from the tool that produced the text, carried through the clipboard: c
 
 Tells that show up in posts, replies and comments, where the format is short enough that one habit is most of the text.
 
-### Hashtag Stuffing
+### The Hashtag Tail
 
-A tail of tags bolted on for reach: six, ten, fifteen of them, most of them generic. A person adds one or two, or none.
+A run of tags bolted onto the end for reach, most of them generic enough to sit under any post at all. A person adds one or two, or none.
 
 - **✗** Great week for the team! #innovation #leadership #growth #ai #future #startups
 - **✓** Great week for the team.
 
-### The Recap-Flattery Opener
+### The Echo Reply
 
-A reply that summarises the other person's post back to them before adding anything of its own: `This is such an important point about X`, `Love this breakdown of Y`. Open on what you have to add.
+A reply that hands the other person their own post back, praised, before it adds anything of its own: `So true, and the part about X is spot on`, `Love this breakdown of Y`. They know what they wrote. Open on what you have to add.
 
-- **✗** This is such an important point about hiring slowly. I've seen this too.
+- **✗** So true - and the part about hiring slowly is spot on. I've seen this too.
 - **✓** We tried this and it broke at about thirty people. Here's where.
 
-### The Lingering-Attention Claim
+### "I Keep Coming Back to This"
 
-Asserting that something stayed with you, in place of saying why it should stay with anyone else: `The line I keep coming back to`, `I can't stop thinking about this`, `This has been rattling around my head all week`.
+Reporting that something stayed with you, in place of saying why it should stay with anyone else: `still thinking about this one`, `this has been rattling around my head all week`, `I saved this and reread it twice`. Say what it changed.
 
-- **✗** The line I keep coming back to: "culture is what you tolerate."
+- **✗** Still thinking about this one: "culture is what you tolerate."
 - **✓** "Culture is what you tolerate" is why we rewrote our review process.
 
-### Narrated Candor
+### "Let Me Be Honest"
 
-Announcing honesty instead of being honest: `Two caveats I'd rather flag`, `I want to be upfront`, `Let me be honest here`, `Real talk`. Say the difficult thing; the frame adds nothing to it.
+Announcing honesty instead of being honest: `let me be honest here`, `I'll be candid`, `real talk`, `if I'm being straight with you`. Say the difficult thing; the frame adds nothing to it.
 
-- **✗** I want to be upfront: this took longer than we planned.
+- **✗** Let me be honest here: this took longer than we planned.
 - **✓** This took three months. We said six weeks.
 
 ### The Wall of Text
 
-A post pasted whole out of a chat window: four or more sentences in one block, no line breaks, in a format people skim on a phone. Break it up, or cut it to the one thing worth posting.
+A post pasted whole out of a chat window: one dense block, no line breaks, in a format people read on a phone between other things. Break it up, or cut it to the one thing worth posting.
 
 - **✗** _Six sentences, no line breaks, a single paragraph._
 - **✓** _Two lines, a break, then the point._
