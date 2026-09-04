@@ -1,6 +1,6 @@
 # Better Tropes
 
-**A catalogue of AI writing tells, each with a plain rewrite.** Free to copy, paste into a system prompt, or install as an agent skill.
+**A catalogue of AI writing tells, each with a plain rewrite.**  Drop this into any workflow to reduce the frequency of AI writing tells by between 30-70% based on Fireside tests.  Free to copy, paste into a system prompt, or install as an agent skill.
 
 Language models have habits. They reach for `delve` and `leverage`, open on "In today's fast-paced world", close on a motivational line nobody asked for, and hedge every claim into mush. Better Tropes names those habits and shows the version a careful human writer would produce instead.
 
