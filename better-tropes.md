@@ -30,16 +30,9 @@ Filler that announces significance instead of showing it: `it's worth noting`, `
 - **✗** It's worth noting that, importantly, retention improved.
 - **✓** Retention improved 12%.
 
-### Doubled Hedges
-
-Two hedges doing one hedge's work: `may tend to`, `might in some cases`, `can sometimes prove`, `is likely to occasionally`. Each one weakens the next until the sentence claims nothing at all. Keep one, or commit to the claim.
-
-- **✗** This might in some cases help teams to move a little faster.
-- **✓** This saves the average team four hours a week.
-
 ### Abstraction Nouns
 
-Words that gesture at scale or at a vague boundary instead of naming a thing: `tapestry`, `landscape`, `realm`, `journey`, `ecosystem`, `paradigm`, `synergy`, `framework`, `seam`, `seams`, `world of`, and the consultant register - `flywheel`, `north star`, `surface area`, `moat`, `lever`. Name the concrete noun instead.
+Words that gesture at scale or at a vague boundary instead of naming a thing: `tapestry`, `landscape`, `realm`, `journey`, `ecosystem`, `paradigm`, `synergy`, `framework`, `seam`, `seams`, `world of`. Name the concrete noun instead.
 
 - **✗** Navigating the ever-evolving landscape of the customer journey.
 - **✓** Keeping up with what customers ask for.
@@ -50,13 +43,6 @@ Adjectives that add length, not information: `robust`, `comprehensive`, `holisti
 
 - **✗** A robust, comprehensive solution with a structural advantage.
 - **✓** It handles 10,000 requests a second and never drops one.
-
-### Stacked Hyphenated Modifiers
-
-Compound adjectives piled in front of a noun: `a fully-managed, developer-first, cloud-native platform`. Each one has the shape of a specification and none of them is one. Keep at most one, and only where it does work.
-
-- **✗** A fully-managed, developer-first, cloud-native, enterprise-ready platform.
-- **✓** It has run for two years without an outage.
 
 ### Empty Superlatives
 
@@ -72,16 +58,9 @@ The longer, Latin-rooted word where a short one works: `utilize` (use), `facilit
 - **✗** We endeavour to facilitate a commencement of the process.
 - **✓** We try to help you get started.
 
-### Elegant Variation
-
-Rotating through synonyms for one thing so that no word is ever repeated: `customers`, then `clients`, then `users`, then `accounts`, all meaning the same people. Fowler named this in 1926 and it has only got worse. Repetition reads as precision - pick the right word and use it every time.
-
-- **✗** Customers want speed, so we built for clients who ship daily, because our users deserve better.
-- **✓** Customers want speed. We built this for the ones who ship daily.
-
 ### The "Serves As" Dodge
 
-Weak linking verbs that assert importance without stating a fact: `serves as`, `stands as`, `marks`, `represents`, `boasts`, `features`, `offers`. Say what the thing actually does.
+Weak linking verbs that assert importance without stating a fact: `serves as`, `stands as`, `marks`, `represents`. Say what the thing actually does.
 
 - **✗** This release serves as a testament to our commitment.
 - **✓** This release cuts load times in half.
@@ -134,17 +113,10 @@ A correlative frame that inflates a simple point into a two-part announcement. S
 
 ### The Empty Analysis Tail
 
-A sentence that trails off into an `-ing` clause explaining its own significance: `..., ensuring...`, `..., allowing...`, `..., highlighting its importance`, `..., reflecting broader trends`, `..., underscoring`, `..., showcasing`, `..., cementing`, `..., contributing to`. End the sentence at the point.
+A sentence that trails off into an `-ing` clause explaining its own significance: `..., ensuring...`, `..., allowing...`, `..., highlighting its importance`, `..., reflecting broader trends`, `..., contributing to`. End the sentence at the point.
 
 - **✗** The API caches results, ensuring a seamless experience and reflecting broader trends.
 - **✓** The API caches results, so pages load instantly.
-
-### The Demoted Example
-
-Examples pushed into a parenthesis so the sentence never has to commit to them: `(such as...)`, `(among others)`, `(to name a few)`. Name them in the sentence or leave them out.
-
-- **✗** Several teams (like sales and support) saw gains (among others).
-- **✓** Sales and support both halved their response times.
 
 ### Uniform Rhythm
 
@@ -178,20 +150,6 @@ Signposting that narrates the structure instead of delivering it: `In this secti
 - **✗** In this section, we will explore three ways to reduce churn.
 - **✓** Three things reduce churn. The first is onboarding.
 
-### Additive Transitions
-
-Connectives asserting a logical link the sentences do not have: `Moreover`, `Furthermore`, `Additionally`, `In addition`. If the next point follows, it follows without being announced. If it doesn't, the word won't rescue it.
-
-- **✗** The API is fast. Moreover, it is reliable. Furthermore, it is well documented.
-- **✓** The API answers in 40ms and hasn't gone down this year.
-
-### List Inflation
-
-A list padded out to reach a round number: `nine ways to`, `twelve lessons from`, `six things nobody tells you`. The back half is usually the front half in new words. Keep the ones that are true.
-
-- **✗** Twelve lessons from our first year.
-- **✓** Two lessons from our first year: price higher, and hire slower.
-
 ### Listicle in a Trench Coat
 
 Prose that is secretly a list, stitched together with `The first...`, `The second...`, `The third...`, or bulleted for the feel of being organised. Use a list for genuinely parallel items; use sentences for an argument.
@@ -219,7 +177,7 @@ Manufactured excitement: `thrilled`, `excited to share`, `can't wait`, and the e
 
 ### The "Let's / Here's" Warm-Up
 
-Fake conversational lead-ins aimed at no one: `Let's dive in`, `Let's break this down`, `Let's unpack this`, `Let's explore`, `you might be wondering`, and the `Here's the ___` slot filled with almost any noun - `Here's the thing`, `the kicker`, `the rub`, `the secret`, `the takeaway`, `the lesson`, `the deal`, `the starting point` - plus `Here's where it gets interesting`, `Here's what most people miss`, and `This is the interesting part`. Address the reader like a busy adult and start.
+Fake conversational lead-ins aimed at no one: `Let's dive in`, `Let's break this down`, `Let's unpack this`, `Let's explore`, `you might be wondering`, and the `Here's the ___` slot filled with almost any noun - `Here's the thing`, `the kicker`, `the rub`, `the secret`, `the takeaway`, `the lesson`, `the deal`, `the starting point` - plus `Here's where it gets interesting` and `Here's what most people miss`. Address the reader like a busy adult and start.
 
 - **✗** Let's break this down. Here's the kicker: it's simpler than you think.
 - **✓** Here is how it works.
@@ -292,20 +250,6 @@ as a default connector several times a paragraph. Reach for a full stop, a comma
 - **✗** It's fast - really fast - and it scales - effortlessly.
 - **✓** It's fast, and it scales.
 
-### Colon Overuse
-
-The colon as a default mid-sentence connector, several to a paragraph: setup, then payoff, every time. It flattens prose the same way the em dash does. Keep it for a genuine list or definition and use a full stop everywhere else.
-
-- **✗** The finding was clear: users want speed. The fix was obvious: cut the steps.
-- **✓** Users want speed, so we cut four steps out of checkout.
-
-### Title Case Headings
-
-Headings capitalised word by word, `Conjunctions And Prepositions Included`, giving an ordinary section the weight of a book chapter. Use sentence case unless the heading is a proper name.
-
-- **✗** How To Get Started With Your New Workspace
-- **✓** How to get started with your new workspace
-
 ### Bold Everything
 
 Bolding so many phrases that emphasis stops meaning anything. Bold at most the one thing a skimmer must not miss.
@@ -315,17 +259,10 @@ Bolding so many phrases that emphasis stops meaning anything. Bold at most the o
 
 ### Bold-First Bullets
 
-Every bullet formatted as `**Bolded phrase**: description`, turning a list into a glossary. The variant that ends the label with a full stop - `**Speed.** It's fast.` - is the same shape wearing different punctuation. Use it when terms genuinely need defining, not as the default bullet shape.
+Every bullet formatted as `**Bolded phrase**: description`, turning a list into a glossary. Use it when terms genuinely need defining, not as the default bullet shape.
 
 - **✗** **Speed**: it's fast. **Value**: it's cheap. **Trust**: people like it.
 - **✓** It's fast, it's cheap, and people trust it.
-
-### Bullets Without Verbs
-
-Lists of bare noun phrases that look like structure and claim nothing: `Improved performance`, `Better collaboration`, `Enhanced security`. A bullet should say something that could turn out to be false.
-
-- **✗** Faster onboarding · Improved retention · Better visibility
-- **✓** Onboarding takes four minutes, down from twenty.
 
 ### Unicode Decoration
 
@@ -359,13 +296,6 @@ Opening on a grand backdrop to make a small point feel large: `In today's fast-p
 - **✗** In today's fast-paced digital landscape, email still matters.
 - **✓** Your open rate dropped 8% last quarter.
 
-### The Rhetorical Question Opener
-
-Opening on a question the piece is about to answer anyway: `Ever wondered why...?`, `What's really going on here?`, `Why does any of this matter?`. Lead with the claim.
-
-- **✗** Ever wondered why most migrations run late?
-- **✓** Most migrations run late because nobody audits the old data first.
-
 ### The Nobody Source
 
 Authority attributed to no one: `Experts argue`, `Studies show`, `Industry reports suggest`, `Observers have cited`. Name the source or drop the claim.
@@ -394,101 +324,12 @@ A closing paragraph flagged as one - `In conclusion`, `To sum up`, `In summary` 
 - **✗** In conclusion, this is a powerful approach that can transform your workflow.
 - **✓** If you remember one thing: chunk the work before you prompt.
 
----
-
-## Assistant Artifacts
-
-Traces of the chat window that produced the text. They survive a copy-paste into a document, a post or a pull request, and a reader who spots one stops reading for the argument and starts reading for the tells.
-
-### The Sycophantic Opener
-
-Praise for the question before any answer arrives: `Great question!`, `You're absolutely right!`, `That's a really important point.` It flatters nobody and delays the answer.
-
-- **✗** Great question! The best format here is CSV.
-- **✓** Use CSV. Excel opens it without a plugin.
-
 ### Restating the Prompt
 
-Answering by echoing the question back in full-sentence form, or narrating the reply before giving it: `You're asking about`, `To answer your question`, `Let me address each of your points in turn`.
+Answering by echoing the question back in full-sentence form before responding.
 
 - **✗** That's a great question. The best way to reduce load times is...
 - **✓** Serve images at the size they display. That's most of it.
-
-### Reasoning Narration
-
-Thinking aloud in the finished text: `First, let's consider`, `Now that we've established`, `Working through this in order`, `Starting with the basics`. Show the conclusion and the evidence for it, not the walk between them.
-
-- **✗** First, let's consider the cost. Now that we've established the budget...
-- **✓** It costs $40 a seat, which is double what you pay now.
-
-### The Assistant Sign-Off
-
-The closing line of a chat reply left on the end of a document: `I hope this helps!`, `Let me know if you'd like me to expand on any of these`, `Feel free to reach out with any questions.`
-
-- **✗** I hope this helps! Let me know if you'd like me to go deeper on any of these.
-- **✓** _Nothing. The last real sentence is the ending._
-
-### The Knowledge Disclaimer
-
-Hedging about the writer's own access to information, in text that is supposed to be about the subject: `As of my last update`, `I don't have access to real-time data`, `Based on the information available to me`. Find the fact or drop the claim.
-
-- **✗** Based on the information available to me, the company appears to be growing.
-- **✓** The company filed 40 new trademarks last year.
-
-### Unfilled Placeholders
-
-Brackets the draft was supposed to lose on the way out: `[Your Name]`, `[Company]`, `[date]`, `[link here]`, `[add example]`. Search for a square bracket before anything ships.
-
-- **✗** Thanks again, [Your Name]. The full report is at [link here].
-- **✓** Thanks again, Priya. The full report is at example.com/q3.
-
-### Paste Residue
-
-Machinery from the tool that produced the text, carried through the clipboard: citation markers like `citeturn0search0`, `oai_citation` and `contentReference[oaicite:0]`, and links tagged `utm_source=chatgpt.com` or `utm_source=copilot.com`. Strip them.
-
-- **✗** Revenue doubled last year citeturn0search1.
-- **✓** Revenue doubled last year, according to their Q4 filing.
-
----
-
-## Social Posts
-
-Tells that show up in posts, replies and comments, where the format is short enough that one habit is most of the text.
-
-### The Hashtag Tail
-
-A run of tags bolted onto the end for reach, most of them generic enough to sit under any post at all. A person adds one or two, or none.
-
-- **✗** Great week for the team! #innovation #leadership #growth #ai #future #startups
-- **✓** Great week for the team.
-
-### The Echo Reply
-
-A reply that hands the other person their own post back, praised, before it adds anything of its own: `So true, and the part about X is spot on`, `Love this breakdown of Y`. They know what they wrote. Open on what you have to add.
-
-- **✗** So true - and the part about hiring slowly is spot on. I've seen this too.
-- **✓** We tried this and it broke at about thirty people. Here's where.
-
-### "I Keep Coming Back to This"
-
-Reporting that something stayed with you, in place of saying why it should stay with anyone else: `still thinking about this one`, `this has been rattling around my head all week`, `I saved this and reread it twice`. Say what it changed.
-
-- **✗** Still thinking about this one: "culture is what you tolerate."
-- **✓** "Culture is what you tolerate" is why we rewrote our review process.
-
-### "Let Me Be Honest"
-
-Announcing honesty instead of being honest: `let me be honest here`, `I'll be candid`, `real talk`, `if I'm being straight with you`. Say the difficult thing; the frame adds nothing to it.
-
-- **✗** Let me be honest here: this took longer than we planned.
-- **✓** This took three months. We said six weeks.
-
-### The Wall of Text
-
-A post pasted whole out of a chat window: one dense block, no line breaks, in a format people read on a phone between other things. Break it up, or cut it to the one thing worth posting.
-
-- **✗** _Six sentences, no line breaks, a single paragraph._
-- **✓** _Two lines, a break, then the point._
 
 ---
 
@@ -509,13 +350,6 @@ Every paragraph the same shape and length, like slots in a template. Let content
 
 - **✗** Three paragraphs, each exactly four sentences, each opening with a thesis.
 - **✓** A five-sentence paragraph, then a two-word one. Because it matters.
-
-### Interchangeable Paragraphs
-
-Body paragraphs that could be reordered without breaking anything, because none of them depends on the one before it. A piece with an argument has paragraphs that only work in one order.
-
-- **✗** _Four sections that could be shuffled with nothing lost._
-- **✓** _A second paragraph that only makes sense after the first._
 
 ### Heading Inflation
 
