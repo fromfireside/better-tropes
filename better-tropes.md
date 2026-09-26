@@ -23,7 +23,7 @@ Adverbs dropped in to make a flat statement feel weighty: `quietly`, `deeply`, `
 - **✗** The system quietly and fundamentally reshapes how teams work.
 - **✓** The system changes how teams assign work.
 
-### The Hedged Aside
+### Throat-Clearing
 
 Filler that announces significance instead of showing it: `it's worth noting`, `it bears mentioning`, `importantly`, `interestingly`, `notably`, `certainly`. Delete the throat-clearing and state the thing.
 
@@ -51,7 +51,7 @@ Claims of importance with nothing behind them: `game-changing`, `cutting-edge`, 
 - **✗** Our game-changing, cutting-edge platform.
 - **✓** Our platform ships changes in under a minute.
 
-### Latinate Over Plain
+### The Long Word for a Short One
 
 The longer, Latin-rooted word where a short one works: `utilize` (use), `facilitate` (help), `commence` (start), `endeavour` (try), `demonstrate` (show).
 
@@ -90,7 +90,7 @@ A question-then-fragment beat for drama: `The result? Devastating.` / `The catch
 - **✗** The result? A total transformation.
 - **✓** Support tickets dropped by half.
 
-### Anaphora
+### Repeated Sentence Openings
 
 Consecutive sentences opening with the same words for cadence: `They assume... They expect... They forget...`. Use it once for real effect; delete the rest.
 
@@ -111,7 +111,7 @@ A correlative frame that inflates a simple point into a two-part announcement. S
 - **✗** This not only saves time but also improves accuracy.
 - **✓** This saves time and cuts errors.
 
-### The Empty Analysis Tail
+### The Trailing "-ing" Clause
 
 A sentence that trails off into an `-ing` clause explaining its own significance: `..., ensuring...`, `..., allowing...`, `..., highlighting its importance`, `..., reflecting broader trends`, `..., contributing to`. End the sentence at the point.
 
@@ -168,7 +168,7 @@ A pitch with no downside, no cost, no trade-off. Real recommendations are often 
 - **✗** This approach is a win for everyone involved.
 - **✓** This is faster to ship, but you'll pay more in support tickets.
 
-### The Enthusiasm Tax
+### Manufactured Excitement
 
 Manufactured excitement: `thrilled`, `excited to share`, `can't wait`, and the exclamation marks that follow. Let the news carry the feeling.
 
@@ -296,7 +296,7 @@ Opening on a grand backdrop to make a small point feel large: `In today's fast-p
 - **✗** In today's fast-paced digital landscape, email still matters.
 - **✓** Your open rate dropped 8% last quarter.
 
-### The Nobody Source
+### The Unnamed Source
 
 Authority attributed to no one: `Experts argue`, `Studies show`, `Industry reports suggest`, `Observers have cited`. Name the source or drop the claim.
 
@@ -310,7 +310,7 @@ Rapid-fire comparisons to famous companies or moments to borrow their weight: `t
 - **✗** It's the Uber of groceries, with an Apple-grade design and a Netflix model.
 - **✓** You order in two taps and it arrives in an hour.
 
-### The Balanced Fake-Ending
+### The Token Caveat Ending
 
 A conclusion that concedes a token challenge only to reaffirm the upside: `While challenges remain, the outlook is positive`, `Despite its hurdles...`. If there's a real challenge, take it seriously; if not, don't stage one.
 
@@ -337,7 +337,7 @@ Answering by echoing the question back in full-sentence form before responding.
 
 These signs of LLM writing only become visible once the piece is finished. Check for them on a read-through, not a find-and-replace.
 
-### Fragment Emphasis
+### One-Line Paragraphs
 
 Breaking a thought into one-sentence paragraphs, each on its own line, to force drama. And it shows. Every time. Reserve the isolated line for the one point that earns it.
 
@@ -358,7 +358,7 @@ Turning every second sentence into a Title-Cased heading, breaking a short piece
 - **✗** Six headings over 300 words.
 - **✓** One heading, three paragraphs under it.
 
-### The Dead Metaphor
+### The Overworked Metaphor
 
 A single figure of speech introduced early and then dragged through the whole piece - every point reframed as another part of the "journey", "engine", or "recipe". Use a metaphor once, then let it go.
 
