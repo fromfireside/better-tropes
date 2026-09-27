@@ -5,7 +5,7 @@ description: "Strip the tells that mark prose as AI-generated. Use when writing 
 
 # Better Tropes
 
-These tells make writing sound AI-generated. Avoid them while following your other instructions. Each entry names a tell, explains it, then contrasts two lines - always prefer the second:
+These tells make writing sound AI-generated. Avoid them while following your other instructions. Each entry records a tell, and explains it alongside a pair of examples. Always prefer the second:
 
 - **✗** the tell to avoid
 - **✓** the rewrite to prefer
@@ -23,14 +23,14 @@ Verbs that sound important but carry no more meaning than a plain one: `delve`, 
 
 ### Magic Adverbs
 
-Adverbs dropped in to make a flat statement feel weighty: `quietly`, `deeply`, `fundamentally`, `remarkably`, `arguably`, `seamlessly`, `effortlessly`, `truly`, `simply`. If the sentence means the same without the adverb, cut it.
+Adverbs used to make a flat statement feel weighty: `quietly`, `deeply`, `fundamentally`, `remarkably`, `arguably`, `seamlessly`, `effortlessly`, `truly`, `simply`. If the sentence means the same without the adverb, cut it.
 
 - **✗** The system quietly and fundamentally reshapes how teams work.
 - **✓** The system changes how teams assign work.
 
 ### Throat-Clearing
 
-Filler that announces significance instead of showing it: `it's worth noting`, `it bears mentioning`, `importantly`, `interestingly`, `notably`, `certainly`. Delete the throat-clearing and state the thing.
+Filler that announces significance instead of showing it: `it's worth noting`, `it bears mentioning`, `importantly`, `interestingly`, `notably`, `certainly`. State the thing plainly.
 
 - **✗** It's worth noting that, importantly, retention improved.
 - **✓** Retention improved 12%.
@@ -125,14 +125,14 @@ A sentence that trails off into an `-ing` clause explaining its own significance
 
 ### Uniform Rhythm
 
-Every sentence the same medium length, so the prose has no pulse. Cut some short. Let one run long. The variation is the voice.
+Every sentence the same medium length, so the prose has no pulse. Vary sentence length. Cut some short. Let one run long.
 
 - **✗** The feature is useful. It saves time. Users like it. It works well.
 - **✓** The feature saves time. Not a little - users get their afternoons back.
 
 ### The "From X to Y" Sweep
 
-A construction implying comprehensive range without naming anything: `from startups to enterprises`, plus the `span` / `spans` / `spanning` family - `spanning every use case`, `a solution that spans teams`, `a span of industries`. Name the actual cases.
+A description of range in place of specifics: `from startups to enterprises`, `spanning every use case`. State the examples instead of describing the range.
 
 - **✗** From onboarding to offboarding, spanning teams of every size.
 - **✓** We handle the first-day setup and the account-deletion request.
@@ -182,7 +182,7 @@ Manufactured excitement: `thrilled`, `excited to share`, `can't wait`, and the e
 
 ### The "Let's / Here's" Warm-Up
 
-Fake conversational lead-ins aimed at no one: `Let's dive in`, `Let's break this down`, `Let's unpack this`, `Let's explore`, `you might be wondering`, and the `Here's the ___` slot filled with almost any noun - `Here's the thing`, `the kicker`, `the rub`, `the secret`, `the takeaway`, `the lesson`, `the deal`, `the starting point` - plus `Here's where it gets interesting` and `Here's what most people miss`. Address the reader like a busy adult and start.
+Fake conversational lead-ins aimed at no one: `Let's dive in`, `Let's break this down`, `Let's unpack this`, `Let's explore`, `you might be wondering`, and the `Here's the ___` slot filled with almost any noun. For example - `Here's the thing`, `the kicker`, `the rub`, `the secret`, `the takeaway`, `the lesson`, `the deal`, `the starting point` - plus `Here's where it gets interesting` and `Here's what most people miss`. Address the reader like a busy adult and start.
 
 - **✗** Let's break this down. Here's the kicker: it's simpler than you think.
 - **✓** Here is how it works.
@@ -313,11 +313,11 @@ Authority attributed to no one: `Experts argue`, `Studies show`, `Industry repor
 Rapid-fire comparisons to famous companies or moments to borrow their weight: `the Uber of...`, `like Apple in 2007`, `a Spotify moment`. Make the case on its own merits.
 
 - **✗** It's the Uber of groceries, with an Apple-grade design and a Netflix model.
-- **✓** You order in two taps and it arrives in an hour.
+- **✓** You order in two clicks and it arrives in an hour.
 
 ### The Token Caveat Ending
 
-A conclusion that concedes a token challenge only to reaffirm the upside: `While challenges remain, the outlook is positive`, `Despite its hurdles...`. If there's a real challenge, take it seriously; if not, don't stage one.
+Conceding a token challenge only to reaffirm the upside: `While challenges remain, the outlook is positive`, `Despite its hurdles...`. If there's a real challenge, take it seriously. If not, don't stage one.
 
 - **✗** While hurdles remain, the future looks bright.
 - **✓** The hard part is migration. Budget two weeks for it.
@@ -354,7 +354,7 @@ Breaking a thought into one-sentence paragraphs, each on its own line, to force 
 Every paragraph the same shape and length, like slots in a template. Let content decide length; a one-line paragraph is allowed to stand alone.
 
 - **✗** Three paragraphs, each exactly four sentences, each opening with a thesis.
-- **✓** A five-sentence paragraph, then a two-word one. Because it matters.
+- **✓** A five-sentence paragraph, then a two-word one. It matters.
 
 ### Heading Inflation
 
@@ -379,11 +379,11 @@ A single idea restated across thousands of words, each section rephrasing the la
 
 ### Content Duplication
 
-The same sentence or paragraph reappearing near-verbatim within one piece, a tell of stitched-together generation. Read it through once and cut every echo.
+The same sentence or paragraph reappearing near-verbatim within one piece. Read it through once and cut every echo.
 
 - **✗** The intro claim repeated word-for-word in the conclusion.
 - **✓** The conclusion adds something the intro didn't.
 
 ---
 
-_Better Tropes — maintained at <https://fromfireside.com/tools/better-tropes> · source: <https://github.com/fromfireside/better-tropes> · CC BY 4.0_
+_Better Tropes — updated 2026-09-27 · maintained at <https://fromfireside.com/tools/better-tropes> · source: <https://github.com/fromfireside/better-tropes> · CC BY 4.0_
