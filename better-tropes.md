@@ -381,4 +381,4 @@ The same sentence or paragraph reappearing near-verbatim within one piece. Read 
 
 ---
 
-_Better Tropes — updated 2026-09-27 · maintained at <https://fromfireside.com/tools/better-tropes> · source: <https://github.com/fromfireside/better-tropes> · CC BY 4.0_
+_Better Tropes — maintained at <https://fromfireside.com/tools/better-tropes> · source: <https://github.com/fromfireside/better-tropes> · CC BY 4.0_
