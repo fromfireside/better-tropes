@@ -36,6 +36,10 @@ This one strips it out. Every entry names a tell, explains it in a sentence, and
 > - **✗** We leverage data to unlock growth and streamline collaboration.
 > - **✓** We use data to grow and to help teams work together.
 
+## How it differs
+
+Better Tropes lists AI tells and nothing else, with no writing advice. For a comparison with tropes.fyi, humanizer, unslop, stop-slop and avoid-ai-writing, including which to use when, see [fromfireside.com/tools/better-tropes](https://fromfireside.com/tools/better-tropes#which-skill-to-remove-ai-writing-tells).
+
 ## What's in it
 
 | Section | Covers |
@@ -44,9 +48,9 @@ This one strips it out. Every entry names a tell, explains it in a sentence, and
 | Sentence Structure | Rhythm tics, the negation flip, symmetrical constructions |
 | Paragraph Structure | Openers and transitions that announce rather than say |
 | Tone | Relentless positivity, false vulnerability, grandiose stakes |
-| Formatting | Em-dash overuse, heading inflation, fragment emphasis |
-| Composition | Definition openers, scope inflation, invented sources |
-| Whole-Piece Patterns | Dead metaphors, one-point dilution, the motivational closer |
+| Formatting | Em-dash overuse, bold-first bullets, emoji section markers |
+| Composition | Definition openers, scope inflation, unnamed sources |
+| Whole-Piece Patterns | One-line paragraphs, overworked metaphors, one-point dilution |
 
 **[→ Read the full catalogue](better-tropes.md)**
 
